@@ -174,7 +174,7 @@ section{
 .team-member img{
     max-width: 140px;
     box-shadow: -10px -10px 0 #f58d17 ;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 
